@@ -1,5 +1,5 @@
 {
-  "version": "18",
-  "message": "- Pequeña actualización para ordenar tus rutinas,\nestadísticas, circuitos y sparring\n- Ahora puedes ordenarlos a tu gusto si tienes varios,\n solo pulsa los botones arriba o abajo para desplazar.",
+  "version": "19",
+  "message": "- Pequeña actualización en contador de repeticiones,\nAhora no es necesario marcar manualmente la serie en la que vas,\nCada que das click en 'Entrenar' o 'Empezar Entrenamiento'\nla app marca automáticamente la serie en la que vas",
   "url": "https://play.google.com/store/apps/details?id=com.geraldglitch.fito"
 }
